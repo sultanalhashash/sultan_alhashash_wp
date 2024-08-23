@@ -1,0 +1,238 @@
+# Translation of Themes - Entr in Arabic
+# This file is distributed under the same license as the Themes - Entr package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-06-13 12:29:59+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n == 0) ? 0 : ((n == 1) ? 1 : ((n == 2) ? 2 : ((n % 100 >= 3 && n % 100 <= 10) ? 3 : ((n % 100 >= 11 && n % 100 <= 99) ? 4 : 5))));\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ar\n"
+"Project-Id-Version: Themes - Entr\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Entr is a fast, clean, lightweight, customizable and modern-looking free responsive multipurpose WordPress theme. Suitable for e-commerce, blog, creative, hotels, restaurants, startups, portfolio, fitness, food, news, developer or business website and WooCommerce storefront. Theme works perfectly with the new block editor (Gutenberg) and popular page builders like Elementor, Beaver Builder, SiteOrigin, Thrive Architect, Divi, Brizy, Visual Composer etc. Entr is perfect as starter theme and it is compatible with WooCommerce or other popular WordPress plugins. The theme is SEO friendly, WPML and RTL ready. Documentation: https://envothemes.com/docs/docs/entr/ Theme demo ready to import: https://envothemes.com/entr/"
+msgstr "Entr عبارة عن قالب ووردبريس مجاني سريع ونظيف وخفيف الوزن وقابلة للتخصيص وذو مظهر حديث ومتجاوب و متعددة الأغراض. مناسب للتجارة الإلكترونية ، والمدونات ، والإبداعات ، والفنادق ، والمطاعم ، والشركات الناشئة ، وقائمة المشاريع ، واللياقة البدنية ، والطعام ، والأخبار ، والمطورين أو موقع الويب الخاص بالأعمال التجارية وواجهة WooCommerce. يعمل هذا القالب بشكل مثالي مع مُحرر المكوّنات الجديد (Gutenberg) ومنشئي الصفحات المشهورين مثل Elementor و Beaver Builder و SiteOrigin و Thrive Architect و Divi و Brizy و Visual Composer وما إلى ذلك. يعد Entr مثاليًا كقالب بداية وهو متوافق مع WooCommerce أو إضافات ووردبريس الشائعة الأخرى. القالب مستجيب ، ومناسب لتحسين محركات البحث ، ومتوافق مع WPML و RTL. الوثائق: https://envothemes.com/docs/docs/entr/ عرض القالب جاهز للاستيراد: https://envothemes.com/entr/"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Entr"
+msgstr "Entr"
+
+#: lib/customizer/install/class-plugin-install-helper.php:110
+#: lib/customizer/notice/class-customizer-notice.php:144
+msgid "Activating"
+msgstr "يتم التنشيط"
+
+#. Template Name of the theme
+msgid "Page Builders"
+msgstr "منشئ الصفحات"
+
+#. Template Name of the theme
+msgid "No Sidebar"
+msgstr "لا يوجد شريط جانبي"
+
+#. translators: %s: Search results
+#: search.php:7
+msgid "Results for \"%s\""
+msgstr "النتائج ل  \"%s\""
+
+#: lib/wp_bootstrap_navwalker.php:366
+msgid "Add a menu"
+msgstr "أضف قائمة"
+
+#: lib/woocommerce.php:114
+msgid "Compare"
+msgstr "قارن"
+
+#: lib/woocommerce.php:95
+msgid "Wishlist"
+msgstr "قائمة الأمنيات"
+
+#: lib/woocommerce.php:76
+msgid "My Account"
+msgstr "حسابي"
+
+#: lib/woocommerce.php:6
+msgid "Cart"
+msgstr "السلة"
+
+#. translators: %1$s: Entr theme author (do not translate) with envothemes.com
+#. URL
+#: lib/extra.php:544
+msgctxt "Theme author"
+msgid "EnvoThemes"
+msgstr "EnvoThemes"
+
+#. translators: %1$s: Entr theme author (do not translate) with envothemes.com
+#. URL
+#: lib/extra.php:544
+msgid "Theme by %1$s"
+msgstr "قالب بواسطة %1$s"
+
+#: lib/extra.php:500
+msgid "Tags"
+msgstr "وسوم"
+
+#: lib/extra.php:496
+msgid "Category"
+msgstr "تصنيف"
+
+#: lib/extra.php:385
+msgid "Next"
+msgstr "التالي"
+
+#: lib/extra.php:385
+msgid "Next Post"
+msgstr "المقالة التالية"
+
+#: lib/extra.php:384
+msgid "Previous"
+msgstr "السابق"
+
+#: lib/extra.php:384
+msgid "Previous Post"
+msgstr "المقالة السابقة"
+
+#: lib/extra.php:270
+msgid "About The Author"
+msgstr "نبذة عن الكاتب"
+
+#: lib/extra.php:247
+msgid "Comment on "
+msgstr "التعليق على "
+
+#: lib/extra.php:244
+msgid "Off"
+msgstr "إيقاف"
+
+#: lib/extra.php:221
+msgid "By"
+msgstr "بواسطة"
+
+#: lib/entr-plugin-install.php:75
+msgid "Learn more"
+msgstr "أعرف أكثر"
+
+#: lib/customizer-recommend.php:27 lib/entr-plugin-install.php:55
+msgid "Install now"
+msgstr "تنصيب الآن"
+
+#: lib/entr-dashboard.php:83 lib/entr-dashboard.php:139
+msgid "Install"
+msgstr "تنصيب"
+
+#: lib/customizer-recommend.php:28
+#: lib/customizer/install/class-plugin-install-helper.php:59
+#: lib/customizer/install/class-plugin-install-helper.php:75
+#: lib/entr-dashboard.php:83 lib/entr-dashboard.php:139
+#: lib/entr-plugin-install.php:40
+msgid "Activate"
+msgstr "تفعيل"
+
+#: lib/entr-dashboard.php:83 lib/entr-dashboard.php:139
+#: lib/entr-plugin-install.php:29
+msgid "Activated"
+msgstr "تم التفعيل"
+
+#. translators: %s: Theme name
+#: lib/entr-dashboard.php:87
+msgid "Get started with %s"
+msgstr "البدء مع  %s"
+
+#. translators: %s: Plugin name string
+#: lib/customizer-recommend.php:22 lib/entr-dashboard.php:79
+#: lib/entr-dashboard.php:136
+msgid "To take full advantage of all the features this theme has to offer, please install and activate the %s plugin."
+msgstr "للاستفادة الكاملة من جميع الميزات التي يجب أن يقدمها هذا القالب ، يرجى تنصيب وتفعيل الإضافة %s."
+
+#. translators: %s: Theme name
+#: lib/customizer-recommend.php:26 lib/entr-dashboard.php:73
+#: lib/entr-dashboard.php:130
+msgid "Thank you for installing %s."
+msgstr "شكرًا لك على تنصيب %s."
+
+#: functions.php:434
+msgid "Skip to the content"
+msgstr "التجاوز إلى المحتوى"
+
+#: functions.php:401
+msgid "Footer Section"
+msgstr "قسم التذييل"
+
+#: functions.php:391
+msgid "Sidebar"
+msgstr "الشريط الجانبي"
+
+#: functions.php:24
+msgid "Main Menu"
+msgstr "القائمة الرئيسية"
+
+#: content-none.php:19
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "يبدو أننا لم نعثر على ما تطلب. لعل استعمال البحث قد يساعد."
+
+#: content-none.php:14
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "عذرًا، ولكن لا شيء يقابل مصطلحات البحث التي استعملتها. يرجى المحاولة مجددا بإستخدام كلمات أساسية أخرى."
+
+#. translators: %1$s: link to admin area
+#: content-none.php:9
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "هل أنت على استعداد لنشر مقالتك الأولى؟ <a href=\"%1$s\">ابدأ من هنا</a>."
+
+#: content-none.php:3
+msgid "Nothing Found"
+msgstr "لا يوجد شيء"
+
+#: comments.php:47
+msgid "Comments are closed."
+msgstr "التعليقات مغلقة."
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:22
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "فكرة %1$s على &ldquo;%2$s&rdquo;"
+msgstr[1] "فكرة %1$s على &ldquo;%2$s&rdquo;"
+msgstr[2] "فكرتان%1$s على &ldquo;%2$s&rdquo;"
+msgstr[3] "أفكار %1$s على &ldquo;%2$s&rdquo;"
+msgstr[4] "أفكار %1$s على &ldquo;%2$s&rdquo;"
+msgstr[5] "أفكار %1$s على &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:19
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "فكرة واحدة بخصوص &ldquo;%s&rdquo;"
+
+#: 404.php:7
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "يبدو أنه لم يتم العثور على شيء في هذا الموقع. لما لا تجرّب البحث؟"
+
+#: 404.php:5
+msgid "Nothing here"
+msgstr "لا شيء هنا"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://envothemes.com/"
+msgstr "https://envothemes.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "EnvoThemes"
+msgstr "EnvoThemes"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://envothemes.com/entr-free-wp-theme/"
+msgstr "https://envothemes.com/entr-free-wp-theme/"
